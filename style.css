@@ -1,0 +1,60 @@
+body{
+    padding:30px;
+    background-color:#F8F8F8;
+}
+.main {
+
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.navigation {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+}
+.logo{
+    margin-right: 850px;
+    margin-left: 70px;
+}
+.mergaite{
+
+}
+p {
+    margin-left: 30px;
+    color: #9E9E9E;
+}
+a {
+    margin-left: 30px;
+    margin-top: 15px;
+    color: #9E9E9E;
+    text-decoration: none;
+}
+
+.content {
+    display:inline-block;
+    justify-content: center;
+    width:50%;
+}
+.nuotrauka {
+    display:inline-block;
+    justify-content: center;
+    width:50%;
+}
+
+h1 {
+    font-family:Courier New;
+    text-align: left;
+    font-size: 150px;
+    color: #9E9E9E;
+    margin-bottom: 0;
+    padding-left: 120px;
+}
+h2 {
+    font-family:Courier New;
+    margin-top:0;
+    text-align: left;
+    color: #9E9E9E;
+    font-size: 40px;
+    padding-left: 120px;
+}
